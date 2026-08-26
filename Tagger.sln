@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8}") = "Tagger", "Tagger.vbdproj", "{E0DEA243-0A56-4DBC-AD6A-6553411FE860}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+		Description = An application used for many different Lasertag tasks.
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{E0DEA243-0A56-4DBC-AD6A-6553411FE860}.Debug.ActiveCfg = Debug|Pocket PC
+		{E0DEA243-0A56-4DBC-AD6A-6553411FE860}.Debug.Build.0 = Debug|Pocket PC
+		{E0DEA243-0A56-4DBC-AD6A-6553411FE860}.Debug.Deploy.0 = Debug|Pocket PC
+		{E0DEA243-0A56-4DBC-AD6A-6553411FE860}.Release.ActiveCfg = Release|Pocket PC
+		{E0DEA243-0A56-4DBC-AD6A-6553411FE860}.Release.Build.0 = Release|Pocket PC
+		{E0DEA243-0A56-4DBC-AD6A-6553411FE860}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
