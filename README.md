@@ -20,7 +20,7 @@ Open `Tagger.sln` in Visual Studio .NET 2003 with Smart Device Extensions (Pocke
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `Tagger`. Assembly attributes (title, description, company, product, copyright) are empty Visual Studio template defaults. Solution format 8.00 / project ProductVersion 7.10.3077. Solution description: "An application used for many different Lasertag tasks."
+Working copy from my Historical Dev folder `Tagger`. Assembly attributes (title, description, company, product, copyright) are empty Visual Studio template defaults. Solution format 8.00 / project ProductVersion 7.10.3077. Solution description: "An application used for many different Lasertag tasks."
 
 ## License
 
